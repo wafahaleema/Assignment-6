@@ -1,0 +1,149 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#navbar{
+    height: 60px;
+    background-color:#E21B72;
+    color: white;
+    font-size:x-large;
+}
+.one{
+     text-align: center; 
+}
+
+li{
+    display: inline;   
+}
+button{
+    background-color: #E21B72;
+    border-color: white;
+    color: white;
+    padding:  15px;
+    border-radius: 5px;
+    font-size:medium;
+}
+
+.three{
+    margin-left: 700px;
+    margin-right: 30px;
+    margin-top: 0;
+}
+#image{
+    margin-top: 2px;
+}
+.div2{
+    display: flex;
+}
+.div1{
+    background-color: rgba(244, 236, 236, 0.864);
+    height: 600px;
+    display: flex;
+    width: 92%;
+
+}
+.new{
+    font-size: 40px ;
+    margin-left: 90px;
+}
+.divtwo{
+      margin-left: 100px; 
+      
+
+}
+input{
+     margin-left: 10px;
+     font-size: x-large;
+     padding: 5px; 
+}
+.div1child1{
+    width: 50%;
+    margin-top: 20%;
+}
+.div3{
+    width: 50%;
+}
+.image{
+    margin-left: 50px;
+}
+.box{
+     /* background-color: #E21B72;  */
+    height: 100px;
+    width: 100%;
+    font-size: 40px;
+    display: flex;
+    align-items: flex-end;
+}   
+.box p {
+    margin-left: 100px;
+}
+.image1{
+    height: 400px;
+    width: 100%;
+    background-image: url(./images/home-vendor-pk.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.parah{
+    background-color:white;
+    height: 300px;
+    width: 45%;
+    margin-left: 100px;
+    margin-top: -160px;
+    border-radius: 20px;
+    color:black;
+      /* border: solid black 2px;  */
+      box-shadow: 5px 5px 5px 5px rgb(234, 227, 227) ;
+}
+h2{
+    margin-top: 10px;
+    margin-left: 50px;
+    font-size: 25px;
+}
+.para{
+    font-size: 17px;
+    margin-left: 50px;
+}
+.button1{
+    margin-left: 50px;
+}
+
+.p{
+    font-size: 40px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.main0{
+    height: 500px;
+    width: 80%px;
+    /* background-color: aquamarine; */
+    margin-left: 90px;
+    margin-right: 90px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.main1{
+    height: 300px;
+    width: 300px;
+    background-color: #E21B72;
+    border-radius: 20px;
+    background-image: url(./images/Islamabad.webp);
+    background-size: cover;
+    background-position: center;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.main3{
+    background-color: white;
+    color: black;
+    margin-top: 80%;
+    height:auto;
+    font-size: large;
+    padding: 10px;
+    width:90px;
+    border-radius: 10px;
+    text-align: center;
+    /* display: flex; */
+} 
